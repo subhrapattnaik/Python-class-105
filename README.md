@@ -26,3 +26,4 @@ The question is, by how much? Can we represent this with a number, of how much d
 
 Standard deviation​ is a measure of how spread out a data set is.
 
+The formula to calculate standard deviation is
