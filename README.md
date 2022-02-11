@@ -20,3 +20,9 @@ In the first graph, where the lowest point is 20 and the average is 75, is it fa
 
 
 
+We need to find out how much our data is spreading out from the central tendency. Just by looking at the graph, we can clearly see that the
+data spread in graph 1 is much more than the data spread in graph 2.
+The question is, by how much? Can we represent this with a number, of how much data spread each of the graphs represents from their central tendency?
+
+Standard deviation​ is a measure of how spread out a data set is.
+
