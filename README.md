@@ -4,6 +4,13 @@
 https://www.mathsisfun.com/data/standard-deviation.html
 
 
+https://www.investopedia.com/terms/s/standarddeviation.asp
+
+
+
+
+
+
 
 Here, if we look closely, we can see that this second graph’s Y Axis does not start with 0, since there are no values below 60.
 To make both the graphs consistent with each other, we will add the following line ​before​ ​fig.show()​.
